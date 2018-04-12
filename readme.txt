@@ -1,3 +1,12 @@
-mabe i will fall in love with somebody
+new start
 
 today i decide to learn git
+
+mabe i will fall in love with somebody 
+here is a new line
+
+today i decide to learn git
+
+Git is a distributed version control system.
+
+Git is free software.
