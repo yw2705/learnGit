@@ -18,3 +18,6 @@ Git tracks changes.
 Git tracks changes again.
 
 this is a dev environment.
+
+
+Creating a new branch is quick & simple
